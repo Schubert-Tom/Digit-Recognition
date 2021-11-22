@@ -11,7 +11,7 @@
   * Autodownloader and split for the training and validation data
   
   Modell-Architecture:
-  ![alt CNN-Architecture](data/img/architecture.png?raw=true "CNN-Architecture")
+  ![alt CNN-Architecture](data/img/CNN_Architecture.png?raw=true "CNN-Architecture")
  
  architecture source: https://ravivaishnav20.medium.com/handwritten-digit-recognition-using-pytorch-get-99-5-accuracy-in-20-k-parameters-bcb0a2bdfa09
   
