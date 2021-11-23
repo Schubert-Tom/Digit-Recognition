@@ -59,6 +59,7 @@ Use pip:
 
  
   Draw your own numbers inside a canvas and let the CNN take a guess.
+  
   Compare the Results from the DNN with the CNN
   
   Framerwork: [streamlit](https://streamlit.io)
