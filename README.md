@@ -1,5 +1,15 @@
 # CNN-Numbers
 
+## Installation
+
+Use Pipenv:
+
+```pipenv install```
+
+Use pip:
+
+```pip install -r requirements.txt```
+
 ## Jupyter Notebook
 
 
@@ -11,11 +21,12 @@
   * Autodownloader and split for the training and validation data
   
   Modell-Architecture:
-  ![Image CNN](ReadME_stuff/Ordnerstruktur.png)
- 
- architecture source: https://ravivaishnav20.medium.com/handwritten-digit-recognition-using-pytorch-get-99-5-accuracy-in-20-k-parameters-bcb0a2bdfa09
   
-  Framerwork: pytorch
+  ![Image CNN](img/CNN_Architecture.png)
+ 
+  [Image Source](https://ravivaishnav20.medium.com/handwritten-digit-recognition-using-pytorch-get-99-5-accuracy-in-20-k-parameters-bcb0a2bdfa09)
+  
+  Framerwork: [pytorch](https://pytorch.org)
   
 ## Web Test-Application
 
@@ -30,5 +41,6 @@
  
   Draw your own numbers inside a canvas and let the CNN guess
   
-  Framerwork: Streamlit
-
+  Framerwork: [streamlit](https://streamlit.io)
+  
+*Thanks to Andreas Weber for the canvas-idea*
