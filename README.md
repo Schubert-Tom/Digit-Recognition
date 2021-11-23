@@ -43,4 +43,4 @@ Use pip:
   
   Framerwork: [streamlit](https://streamlit.io)
   
-*Thanks to Andreas Weber for the canvas-idea*
+*Thanks to Andreas Weber for the canvas idea*
