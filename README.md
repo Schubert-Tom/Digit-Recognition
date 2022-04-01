@@ -1,4 +1,4 @@
-# CNN-Numbers
+# CNN Digit Recognition
 
 ## Installation
 
