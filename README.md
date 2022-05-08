@@ -1,4 +1,8 @@
-# CNN Digit Recognition
+# CNN/DNN Digit Recognition
+
+## Published
+
+[Veröffentlichte Applikation](https://share.streamlit.io/scuba14/digit-recognition/app.py) 
 
 ## Installation
 
